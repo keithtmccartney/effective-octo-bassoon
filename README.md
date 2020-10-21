@@ -8,6 +8,7 @@ Grab the article at [https://www.telerik.com/blogs/creating-a-reusable-javascrip
 * Ensuring the Blazor Templates version is up to date: ```dotnet new -i Microsoft.AspNetCore.Blazor.Templates```;
 * Newly created directory 'BlazorModal': ```mkdir BlazorModal```;
 * Creating a new blazorlib: ```dotnet new blazorlib```;
+* Creating a new blazor: ```dotnet new blazor -n BlazorTest```;
 
 ## Errors Experienced
 
