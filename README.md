@@ -16,6 +16,7 @@ Grab the article at [https://www.telerik.com/blogs/creating-a-reusable-javascrip
 ## Notes:
 
 * I learned about the ```RenderFragment``` (dependent on ```Microsoft.AspNetCore.Blazor.RenderTree```) which 'Represents a segment of UI content, implemented as a delegate that writes the content to a ```Microsoft.AspNetCore.Blazor.RenderTree.RenderTreeBuilder```';
+* I learned about the ```BlazorComponent``` (dependent on ```Microsoft.AspNetCore.Blazor.Components```) which is an 'Optional base class for Blazor components. Alternatively, Blazor components may implement Microsoft.AspNetCore.Blazor.Components.IComponent directly';
 
 ## What's it all about?
 
