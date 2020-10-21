@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "WUED3Vo9oVujVluqjpqYc0bopRe/tdCd2hC2Prodr/MVpvdhJaYf+dJwYjAnAaPi7ZFV1FOa1liKsOY9bWN4Tw==",
+  "success": true,
+  "projectFilePath": "G:\\git\\Source\\Repos\\effective-octo-bassoon\\BlazorModal\\BlazorModal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\keith\\.nuget\\packages\\microsoft.aspnetcore.blazor\\0.7.0\\microsoft.aspnetcore.blazor.0.7.0.nupkg.sha512",
+    "C:\\Users\\keith\\.nuget\\packages\\microsoft.aspnetcore.blazor.analyzers\\0.7.0\\microsoft.aspnetcore.blazor.analyzers.0.7.0.nupkg.sha512",
+    "C:\\Users\\keith\\.nuget\\packages\\microsoft.aspnetcore.blazor.browser\\0.7.0\\microsoft.aspnetcore.blazor.browser.0.7.0.nupkg.sha512",
+    "C:\\Users\\keith\\.nuget\\packages\\microsoft.aspnetcore.blazor.build\\0.7.0\\microsoft.aspnetcore.blazor.build.0.7.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.razor.design\\2.1.2\\microsoft.aspnetcore.razor.design.2.1.2.nupkg.sha512",
+    "C:\\Users\\keith\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\2.1.0\\microsoft.extensions.dependencyinjection.2.1.0.nupkg.sha512",
+    "C:\\Users\\keith\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\keith\\.nuget\\packages\\microsoft.jsinterop\\0.7.0\\microsoft.jsinterop.0.7.0.nupkg.sha512",
+    "C:\\Users\\keith\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\keith\\.nuget\\packages\\mono.webassembly.interop\\0.7.0\\mono.webassembly.interop.0.7.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
