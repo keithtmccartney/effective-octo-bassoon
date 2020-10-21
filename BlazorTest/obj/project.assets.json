@@ -122,6 +122,19 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "BlazorModal/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Blazor.Browser": "0.7.0"
+        },
+        "compile": {
+          "bin/placeholder/BlazorModal.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BlazorModal.dll": {}
+        }
       }
     }
   },
@@ -646,10 +659,16 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "BlazorModal/1.0.0": {
+      "type": "project",
+      "path": "../BlazorModal/BlazorModal.csproj",
+      "msbuildProject": "../BlazorModal/BlazorModal.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
+      "BlazorModal >= 1.0.0",
       "Microsoft.AspNetCore.Blazor.Browser >= 0.7.0",
       "Microsoft.AspNetCore.Blazor.Build >= 0.7.0",
       "NETStandard.Library >= 2.0.3"
@@ -687,7 +706,11 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "G:\\git\\Source\\Repos\\effective-octo-bassoon\\BlazorModal\\BlazorModal.csproj": {
+              "projectPath": "G:\\git\\Source\\Repos\\effective-octo-bassoon\\BlazorModal\\BlazorModal.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
