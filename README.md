@@ -15,7 +15,7 @@ Grab the article at [https://www.telerik.com/blogs/creating-a-reusable-javascrip
 
 ## Notes:
 
-* Abc;
+* I learned about the ```RenderFragment``` (dependent on ```Microsoft.AspNetCore.Blazor.RenderTree```) which 'Represents a segment of UI content, implemented as a delegate that writes the content to a ```Microsoft.AspNetCore.Blazor.RenderTree.RenderTreeBuilder```';
 
 ## What's it all about?
 
