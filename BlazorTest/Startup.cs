@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Blazor.Builder;
 using Microsoft.Extensions.DependencyInjection;
+using BlazorModal;
 
 namespace BlazorTest
 {
@@ -7,6 +8,7 @@ namespace BlazorTest
     {
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddBlazorModal();
         }
 
         public void Configure(IBlazorApplicationBuilder app)
