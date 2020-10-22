@@ -1,0 +1,3 @@
+G:\git\Source\Repos\effective-octo-bassoon\BlazorModal\obj\Debug\netstandard2.0\BlazorModal.csprojAssemblyReference.cache
+G:\git\Source\Repos\effective-octo-bassoon\BlazorModal\obj\Debug\netstandard2.0\BlazorModal.csproj.CoreCompileInputs.cache
+G:\git\Source\Repos\effective-octo-bassoon\BlazorModal\obj\Debug\netstandard2.0\Blazor.inputs.txt
