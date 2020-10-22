@@ -12,7 +12,7 @@ Grab the article at [https://www.telerik.com/blogs/creating-a-reusable-javascrip
 
 ## Errors Experienced
 
-* Abc;
+* I was dealt with an error - ```rzc generate exited with code 1``` - which I assumed came from removing some elements of a fresh project early on though this error was reproduced also on the generating of a new ```blazor``` project. Some suggestions from 2019 (and on earlier .NET Core builds) suggested suppressing the error with a ```@ref:suppressField``` but I'm continuing to investigate;
 
 ## Notes:
 
